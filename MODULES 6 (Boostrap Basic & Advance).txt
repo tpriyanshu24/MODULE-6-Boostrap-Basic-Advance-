@@ -1,0 +1,65 @@
+(1) What are the advantage of Boostrape ?
+Ans : 1. Easy initiation. Coding is a hurricane task for a person who is unbeknownst to web development. ...
+ 2.  Responsiveness. ...
+ 3. Highly customizable. ...
+ 4. Extremely user-centric. ...
+ 5. Top-notch support. ...
+ 6. Cross-browser compatibility. ...
+ 7. JavaScript plugins to your rescue. ...
+ 8. Far-reaching popularity.
+
+(2) What is the Boostrap Container, and how does it Work ?
+Ans : Bootstrap Containers are the most basic layout element in Bootstrap. Bootstrap Containers are very essential and basic building blocks of bootstrap that wrap a page's content. 
+It's responsible for setting and aligning content within it according to viewport or given device.
+
+(3) What are the defualt Boostrap text setting ?
+Ans : Bootstrap 4 uses a default font-size of 16px, and its line-height is 1.5. The default font-family is "Helvetica Neue", Helvetica, Arial, sans-serif. In addition, all <p> elements
+have margin-top: 0 and margin-bottom: 1rem (16px by default).
+
+(4) What do you know about the Boostrap Grid system ?
+Ans : Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content. It's built with flexbox and is fully responsive. Below is an example and an in-depth
+look at how the grid comes together.
+
+(5) What is the diffrence between Boostrap 4 and Boostrap 5 ?
+Ans : Custom form controls are included in Bootstrap 5. The form controls in Bootstrap 4 used whatever presets each browser offered. Because of its bespoke design, the form controls in Bootstrap 5
+ will have a much more uniform appearance and feel across all browsers.
+
+(6) What is a Button Group, and What is the class for a basic Button Group ?
+Ans : “Button Groups” in Bootstrap is a class of name “btn-group” which is used to create series of buttons in groups (without spaces) vertically or horizontally. This is the basic syntax of the button 
+group class where each button has its own class of “btn”.
+
+(7) How can you use Boostrap to make thumbnails ?
+Ans : Bootstrap has an easy way to do this with thumbnails. Bootstrap's . thumbnail class is used to show linked images in grids (grid system), a thumbnail is created using class . thumbnail within the element <a>.
+
+(8) In Boostrap 4, what is flexbox ?
+Ans : Flexbox. The biggest difference between Bootstrap 3 and Bootstrap 4 is that Bootstrap 4 now uses flexbox, instead of floats, to handle the layout. The Flexible Box Layout Module, makes it easier to design flexible
+responsive layout structure without using float or positioning.
+
+(9) How can one create an alert in Boostrap ?
+Ans : Alerts are available for any length of text, as well as an optional dismiss button. For proper styling, use one of the eight required contextual classes (e.g., .alert-success). For inline dismissal, use the alerts jQuery plugin.
+
+(10) What is a boostrap card and how would you create one ?
+Ans : A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options. If you're familiar with Bootstrap 3, cards
+replace our old panels, wells, and thumbnails.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
